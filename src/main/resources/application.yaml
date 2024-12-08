@@ -3,5 +3,5 @@ spring:
     name: mongo-elasticsearch-v1
   data:
     mongodb:
-      uri: mongodb+srv://usrnm:psswrd@clustrnm.qfnan.mongodb.net/?retryWrites=true&w=majority&appName=clustrnm
+      uri: driver uri
       database: Products
